@@ -22,4 +22,5 @@ streamlit run app.py
 ```
 
 Prediction:
+
 ![Alt text](images/streamlit_prediction.png)
